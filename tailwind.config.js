@@ -1,11 +1,19 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-    // Add any other folders where JSX files might be present
-  ],
+export default {
+  content: ["./src/**/*.{js,jsx,ts,tsx}",],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        primaryTitle:"#127369",
+        primaryContent:"#4C5958",
+        primarySubcontent:"#8AA6A3",
+        primaryBase:"#a9b5b4",
+        primaryAccent:"#127369",
+        primaryBg:"#BFBFBF"
+      }
+
+    },
   },
   plugins: [],
-};
+}
+

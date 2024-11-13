@@ -1,0 +1,4 @@
+export const data = {
+    title:"About" ,
+    description:"I’m passionate about the world of technology and development. I find joy in problem-solving and creating solutions that can make an impact. With experience in tools like Node.js, Tailwind CSS, and React Router, I’m committed to building interactive, user-friendly applications that provide a seamless experience. I’m particularly interested in both frontend and backend development, as each side presents unique challenges and learning opportunities. My goal is to continually improve my skills and expand my knowledge of new technologies, which I believe will enable me to become a well-rounded developer. Beyond coding, I also enjoy activities that challenge me mentally and physically, such as calisthenics training and watching classic films. I’m excited to grow in this field and contribute to innovative projects that push boundaries."
+}
